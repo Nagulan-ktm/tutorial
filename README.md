@@ -47,7 +47,7 @@ Python 3.x
 No external libraries are required.
 
 🧑‍💻 Author
-Nagulan-ktm
+Nagulan k
 GitHub: Nagulan-ktm
 
 
